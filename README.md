@@ -8,6 +8,7 @@ I'm a front-end Web Developer.
 
 ### Connect with me:
 
+[website][<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
 
 <br />
 
@@ -17,13 +18,6 @@ I'm a front-end Web Developer.
   </a>
 </p>
 
-<br />
-
-<p align="center" >
-  <a href="https://github.com/asadrao98/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadRao"/>
-  </a>
-</p>
 
 <br />
 
