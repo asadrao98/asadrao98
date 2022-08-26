@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Website](https://img.shields.io/website?label=Asad Rao&style=for-the-badge&url=https%3A%2F%2FUsmanniazi.github.io)](https://asadrao.web.app)
+
 <!--
 **asadrao98/asadrao98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
