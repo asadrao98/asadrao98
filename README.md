@@ -6,12 +6,6 @@
 I'm a front-end Web Developer.
 <br />
 
-### Connect with me:
-
-[website][<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-
-<br />
-
 <p align="center" >
   <a href="https://github.com/asadrao98/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=AsadRao&show_icons=true&hide_border=true"/>
