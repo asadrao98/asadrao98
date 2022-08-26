@@ -2,6 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=Asad Rao&style=for-the-badge&url=https%3A%2F%2FUsmanniazi.github.io)](https://asadrao.web.app)
 [![Website](https://img.shields.io/website?label=UsmanKhan&style=for-the-badge&url=https%3A%2F%2FUsmanniazi.github.io)](https://usmanniazi.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/oyeasad__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/oyeasad__)
+
+
 <!--
 **asadrao98/asadrao98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
