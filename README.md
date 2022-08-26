@@ -4,6 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/oyeasad__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/oyeasad__)
 
 I'm a front-end Web Developer.
+<br />
 
 ### Connect with me:
 
@@ -12,6 +13,25 @@ I'm a front-end Web Developer.
 [<img align="left" alt="Usman Khan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Usman Khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Usman Khan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+<br />
+
+<p align="center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=UsmanNiazi&show_icons=true&hide_border=true"/>
+  </a>
+</p>
+
+<br />
+
+<p align="center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanNiazi"/>
+  </a>
+</p>
+
+<br />
 
 
 <!--
