@@ -14,33 +14,6 @@ I'm a front-end Web Developer.
 
 
 <br />
-### Languages:
-
-
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
-  <a href="#">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-
-  <a href="#">
-    <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
-  </a>  
-</p>
-
 <!--
 **asadrao98/asadrao98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
