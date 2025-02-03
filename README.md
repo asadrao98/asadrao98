@@ -29,12 +29,12 @@
 - 🤝 **Collaborate with teams & clients** to create user-friendly experiences.
 
 ### 📊 GitHub Stats
-![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Asad's GitHub commits](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&theme=radical)
 
 ### 🌍 Let's Connect
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 💻 [Portfolio](https://yourportfolio.com)
-- ✉️ asad@example.com
+- 🔗 [LinkedIn](https://linkedin.com/in/asadrao98)
+- 💻 [Portfolio](https://asadrao.web.app)
+- ✉️ iasadrao98@gmail.com
 
 🚀 **Always open to exciting opportunities & collaborations!**
 
