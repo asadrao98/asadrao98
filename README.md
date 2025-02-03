@@ -1,3 +1,7 @@
+Here’s a revised version of your bio that removes the bullet points and includes badges for showcasing your expertise:
+
+---
+
 ### Hi there, I'm Asad! 👋
 
 🚀 **Software Engineer | Full-Stack Web Developer**
@@ -8,33 +12,28 @@
 
 ### 🛠️ Tech Stack & Expertise
 
-#### **Frontend Technologies:**
-- ⚡ JavaScript (ES6+), React.js
-- 🎨 HTML5, CSS3, SCSS, Tailwind CSS
-- 🏗️ UI/UX Implementation, Responsive Design
+**Frontend Technologies:**  
+⚡ JavaScript (ES6+) | ![React Badge](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black) | 🎨 HTML5 | 🎨 CSS3 | ![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-#### **Backend & Other Technologies:**
-- 🛠️ Laravel (PHP), RESTful APIs
-- 📦 Node.js, Express.js
-- 🗄️ MySQL, PostgreSQL
+**Backend & Other Technologies:**  
+🛠️ Laravel (PHP) | 📦 Node.js | 🗄️ MySQL | 🗄️ PostgreSQL | ![Express Badge](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-#### **Version Control & Tools:**
-- 🔧 Git, GitHub, GitLab
-- 📌 Agile Development, Jira, Trello
+**Version Control & Tools:**  
+🔧 Git | 📌 Agile Development | ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) | ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### 📌 What I Do Best
-- ✅ **Develop high-performance web applications** with clean and efficient code.
-- ⚙️ **Optimize websites** for speed, responsiveness, and scalability.
-- 🔍 **Problem-solving and debugging** complex issues with innovative solutions.
-- 🤝 **Collaborate with teams & clients** to create user-friendly experiences.
+Developing high-performance web applications, optimizing websites for speed and scalability, problem-solving complex issues, and collaborating with teams & clients to create user-friendly experiences.
 
 ### 📊 GitHub Stats
-![Asad's GitHub commits](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&theme=radical)
+![](./profile-3d-contrib/profile-night-view.svg)
 
-### 🌍 Let's Connect
-- 🔗 [LinkedIn](https://linkedin.com/in/asadrao98)
-- 💻 [Portfolio](https://asadrao.web.app)
-- ✉️ iasadrao98@gmail.com
+### 🌍 Let's Connect  
+🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+💻 [Portfolio](https://yourportfolio.com)  
+✉️ asad@example.com
 
 🚀 **Always open to exciting opportunities & collaborations!**
 
+---
+
+How does this look?
