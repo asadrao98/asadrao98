@@ -13,6 +13,8 @@
   <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" width="200"/>
 </div>
 
+---
+
 💡 Passionate about **logic making**, **performance optimization**, and building **scalable web applications**. With over **2 years of experience**, I have worked in **multinational companies**, handling multiple clients and projects across **service-based** and **product-based** industries.
 
 ### 🛠️ Tech Stack & Expertise
