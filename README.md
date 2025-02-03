@@ -33,6 +33,7 @@
 Developing high-performance web applications, optimizing websites for speed and scalability, problem-solving complex issues, and collaborating with teams & clients to create user-friendly experiences.
 
 ### 📊 GitHub Stats
+![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadrao98&layout=compact&theme=radical)
 
 ### 🌍 Let's Connect  
