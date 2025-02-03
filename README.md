@@ -25,7 +25,7 @@
 ### 🏢 Companies I've Had the Privilege to Work With:
 
 **Current & Past Collaborations:**  
- ![ServiceLovers](https://space.bouncewatch.com/images/461714/Servicelovers-logo.jpg/20x20)[ServiceLovers](https://servicelovers.com/)  
+ ![ServiceLovers](https://space.bouncewatch.com/images/461714/Servicelovers-logo.jpg/)[ServiceLovers](https://servicelovers.com/)  
  ![Embrace IT](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Embrace_IT_logo.png/500px-Embrace_IT_logo.png) [Embrace IT](https://www.embrace-it.com/)  
  ![DubiCars](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Dubicars.com_logo.svg/800px-Dubicars.com_logo.svg.png) [DubiCars](https://www.dubicars.com/)
 
