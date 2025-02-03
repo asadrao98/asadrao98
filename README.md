@@ -10,12 +10,9 @@
 ---
 
 <div id="header" align="center" style="width:100%">
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 </div>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-</div>
 
 💡 Passionate about **logic making**, **performance optimization**, and building **scalable web applications**. With over **2 years of experience**, I have worked in **multinational companies**, handling multiple clients and projects across **service-based** and **product-based** industries.
 
