@@ -9,7 +9,9 @@
 
 ---
 
-[<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/YYW0hHizzIOrlhimPG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tech-system-alliance-YYW0hHizzIOrlhimPG">via GIPHY</a></p>](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY0NmQ5NnVtdXRxeTVzNnpmZm8wdWluZGZnd2x6dWN5dmdmZXBvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" width="100"/>
+</div>
 
 💡 Passionate about **logic making**, **performance optimization**, and building **scalable web applications**. With over **2 years of experience**, I have worked in **multinational companies**, handling multiple clients and projects across **service-based** and **product-based** industries.
 
