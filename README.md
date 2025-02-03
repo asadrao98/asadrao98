@@ -37,4 +37,3 @@ Developing high-performance web applications, optimizing websites for speed and 
 
 ---
 
-How does this look?
