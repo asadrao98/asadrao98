@@ -25,9 +25,9 @@
 ### 🏢 Companies I've Had the Privilege to Work With:
 
 **Current & Past Collaborations:**  
-<img src="https://space.bouncewatch.com/images/461714/Servicelovers-logo.jpg" width="150" height="50" /> [ServiceLovers](https://servicelovers.com/)  
-<img src="https://media.licdn.com/dms/image/v2/C4D0BAQE7xV5AXeVrqQ/company-logo_200_200/company-logo_200_200/0/1630487466477/embrace_it_software_development_management_consultancy_logo?e=2147483647&v=beta&t=UgYvNmeQ6SUrksD8tKQjJO7I-foRip0NWHGSD_fdnkQ" width="150" height="50" /> [Embrace IT](https://www.embrace-it.com/)  
-<img src="https://i.pinimg.com/736x/c6/d3/b5/c6d3b5883822282aed51a49403f2d600.jpg" width="150" height="50" /> [DubiCars](https://www.dubicars.com/)
+<img src="https://space.bouncewatch.com/images/461714/Servicelovers-logo.jpg" width="50" height="50" /> [ServiceLovers](https://servicelovers.com/)  
+<img src="https://media.licdn.com/dms/image/v2/C4D0BAQE7xV5AXeVrqQ/company-logo_200_200/company-logo_200_200/0/1630487466477/embrace_it_software_development_management_consultancy_logo?e=2147483647&v=beta&t=UgYvNmeQ6SUrksD8tKQjJO7I-foRip0NWHGSD_fdnkQ" width="50" height="50" /> [Embrace IT](https://www.embrace-it.com/)  
+<img src="https://i.pinimg.com/736x/c6/d3/b5/c6d3b5883822282aed51a49403f2d600.jpg" width="50" height="50" /> [DubiCars](https://www.dubicars.com/)
 
 ### 📌 What I Do Best
 Developing high-performance web applications, optimizing websites for speed and scalability, problem-solving complex issues, and collaborating with teams & clients to create user-friendly experiences.
