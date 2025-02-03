@@ -11,7 +11,7 @@
 ### 🛠️ Tech Stack & Expertise
 
 **Frontend Technologies:**  
-![⚡ JavaScript (ES6+)](https://img.shields.io/badge/Javascript-61DAFB?style=flat&logo=javascript&logoColor=blue) | ![React Badge](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black) | ![🎨 HTML5](https://img.shields.io/badge/Html5-61DAFB?style=flat&logo=html&logoColor=orange%backgroundColor=white) | ![🎨 CSS3](https://img.shields.io/badge/Css3-61DAFB?style=flat&logo=css3&logoColor=blue) | ![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![⚡ JavaScript (ES6+)](https://img.shields.io/badge/Javascript-61DAFB?style=flat&logo=javascript&logoColor=blue) | ![React Badge](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black) | ![🎨 HTML5](https://img.shields.io/badge/Html5-61DAFB?style=flat&logo=html&logoColor=orange%color=white) | ![🎨 CSS3](https://img.shields.io/badge/Css3-61DAFB?style=flat&logo=css3&logoColor=blue) | ![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Backend & Other Technologies:**  
 🛠️ Laravel (PHP) | 📦 Node.js | 🗄️ MySQL | 🗄️ PostgreSQL | ![Express Badge](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
