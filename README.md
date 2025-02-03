@@ -1,5 +1,3 @@
-Here’s a revised version of your bio that removes the bullet points and includes badges for showcasing your expertise:
-
 ---
 
 ### Hi there, I'm Asad! 👋
@@ -13,7 +11,7 @@ Here’s a revised version of your bio that removes the bullet points and includ
 ### 🛠️ Tech Stack & Expertise
 
 **Frontend Technologies:**  
-⚡ JavaScript (ES6+) | ![React Badge](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black) | 🎨 HTML5 | 🎨 CSS3 | ![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![⚡ JavaScript (ES6+)](https://img.shields.io/badge/Html-61DAFB?style=flat&logo=react&logoColor=orange) | ![React Badge](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black) | 🎨 HTML5 | 🎨 CSS3 | ![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Backend & Other Technologies:**  
 🛠️ Laravel (PHP) | 📦 Node.js | 🗄️ MySQL | 🗄️ PostgreSQL | ![Express Badge](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
