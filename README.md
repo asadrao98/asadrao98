@@ -1,55 +1,75 @@
----
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=A1A1AA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Asad
+  +Rao+%F0%9F%91%8B;Software+engineer;React+%26+Next.js+craftsperson;Laravel+%26+Node.js+on+the+server" alt="Typing animation" />
+  </p>
 
+  <p align="center">
+    <em>Full-Stack Web Developer · Based in Islamabad</em>
+  </p>
 
-# Hi, I'm Asad Rao! 👋
+  ---
 
-## 🚀 About Me
+  ### About Me
 
-🚀 **Software Engineer | Full-Stack Web Developer**
+  Full-stack software engineer with 3+ years of experience shipping production web apps for both service-based agencies and product companies. I care about clean interfaces,
+   fast pages, and code that's easy to live with six months later.
 
----
+  Currently building at **DubiCars** — the UAE's largest automotive marketplace.
 
-💡 Passionate about **logic making**, **performance optimization**, and building **scalable web applications**. With over **2 years of experience**, I have worked in **multinational companies**, handling multiple clients and projects across **service-based** and **product-based** industries.
+  ---
 
+  ### Tech Stack
 
-<div id="header" align="center" style="width:100%">
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-</div>
- 
-### 🛠️ Tech Stack & Expertise
+  **Frontend**
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Frontend Technologies:**  
-![⚡ JavaScript (ES6+)](https://img.shields.io/badge/Javascript-61DAFB?style=flat&logo=javascript&logoColor=blue) | ![React Badge](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black) | ![🎨 HTML5](https://img.shields.io/badge/HTML5-61DAFB?style=flat&logo=html&logoColor=orange%color=white) | ![🎨 CSS3](https://img.shields.io/badge/Css3-61DAFB?style=flat&logo=css3&logoColor=blue) | ![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+  **Backend**
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-**Backend & Other Technologies:**  
-🛠️ Laravel (PHP) | 📦 Node.js | 🗄️ MySQL | 🗄️ PostgreSQL | ![Express Badge](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+  **Tools**
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-**Version Control & Tools:**  
-🔧 Git | 📌 Agile Development | ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) | ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ---
 
-### 🏢 Companies I've Had the Privilege to Work With:
+  ### Experience
 
-**Current & Past Collaborations:**  
-- <img src="https://space.bouncewatch.com/images/461714/Servicelovers-logo.jpg" width="20" height="20" />  ServiceLovers (https://servicelovers.com/) 
-- <img src="https://media.licdn.com/dms/image/v2/C4D0BAQE7xV5AXeVrqQ/company-logo_200_200/company-logo_200_200/0/1630487466477/embrace_it_software_development_management_consultancy_logo?e=2147483647&v=beta&t=UgYvNmeQ6SUrksD8tKQjJO7I-foRip0NWHGSD_fdnkQ" width="20" height="20" />  Embrace IT (https://www.embrace-it.com/)  
-- <img src="https://i.pinimg.com/736x/c6/d3/b5/c6d3b5883822282aed51a49403f2d600.jpg" width="20" height="20" />  DubiCars (https://www.dubicars.com/)
+  **DubiCars** — *Software Engineer* · Jul 2024 → Present
+  Building features across a Next.js + React frontend and Laravel/Node.js APIs for the UAE's leading automotive marketplace.
 
-### 📌 What I Do Best
-Developing high-performance web applications, optimizing websites for speed and scalability, problem-solving complex issues, and collaborating with teams & clients to create user-friendly experiences.
+  **Embrace IT** — *Software Engineer* · Sept 2022 → Jun 2024
+  Shipped React applications for clients including **ServiceLovers** (Denmark) and **Epoka** (enterprise hardware). Migrated builds from Craco/Webpack to Vite, reducing
+  bundle size by 70–80%.
 
-### 📊 GitHub Stats
-![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=dark&hide=prs&include_all_commits=true&custom_title=Asad's%20GitHub%20Stats&rank_icon=github&disable_animations=false)
+  ---
 
+  ### GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadrao98&layout=compact&theme=dark&count_private=true)
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=asadrao98&show_icons=true&count_private=true&theme=dark&hide=prs&include_all_commits=true&rank_icon=github"
+   height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadrao98&layout=compact&theme=dark&count_private=true" height="160" />
+  </p>
 
+  ---
 
-### 🌍 Let's Connect  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-💻 [Portfolio](https://yourportfolio.com)  
-✉️ asad@example.com
+  ### Let's Connect
 
-🚀 **Always open to exciting opportunities & collaborations!**
+  - 🌐 Portfolio — [asadrao.web.app](https://asadrao.web.app)
+  - 💼 LinkedIn — [linkedin.com/in/asadrao98](https://linkedin.com/in/asadrao98)
+  - ✉️  Email — iasadrao98@gmail.com
 
----
-
+  <sub>Open to interesting work and conversations.</sub>
