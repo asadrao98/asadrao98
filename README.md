@@ -52,17 +52,7 @@
   bundle size by 70–80%.
 
   ---
-
-  ### GitHub Stats
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=asadrao98&show_icons=true&count_private=true&theme=dark&hide=prs&include_all_commits=true&rank_icon=github"
-   height="160" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadrao98&layout=compact&theme=dark&count_private=true" height="160" />
-  </p>
-
-  ---
-
+  
   ### Let's Connect
 
   - 🌐 Portfolio — [asadrao.web.app](https://asadrao.web.app)
