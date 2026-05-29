@@ -1,10 +1,5 @@
  <h1 align="center">Hi, I'm Asad Rao 👋</h1>                                                                                                                                
-                                                                                                                                                                             
-  <p align="center">                                                                                                                                                         
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A1A1AA&center=true&vCenter=true&width=600&lines=Software+engineer
-  ;React+%26+Next.js+craftsperson;Laravel+%26+Node.js+on+the+server;Always+shipping" alt="Tagline animation" />                                                              
-  </p>
-                                                                                                                                                                             
+ 
   <p align="center">                                                                                                                                                       
     <em>Full-Stack Web Developer · Based in Islamabad</em>
   </p> 
